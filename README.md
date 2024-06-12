@@ -6,8 +6,8 @@
 We are here to unlock the full potential of your business with our tailored solutions. Discover how our expertise drives efficiency and fosters success in various operational areas, offering cutting-edge solutions to meet your unique need. We are here to help you transform challenges into opportunities with our tailor-made IT solutions.
 
 [//]: <> (https://github-readme-stats.vercel.app/api?username=equidaecore-codehub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github.com/equidaecore-sms/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/equidaecore-sms/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/equidaecore-codehub/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/equidaecore-codehub/github-stats/blob/master/generated/languages.svg)
 
 ## 🚀 About Us
 
