@@ -3,9 +3,11 @@
   <img src="https://equidaecore.com.ng/wp/wp-content/uploads/2023/03/equidaecore-logo.svg" width="150"/>
 </div>
 
-We are here to you unlock the full potential of your business with our tailored solutions. Discover how our expertise drives efficiency and fosters success in various operational areas, offering cutting-edge solutions to meet your unique need. We are here to help you transform challenges into opportunities with our tailor-made IT solutions.
+We are here to unlock the full potential of your business with our tailored solutions. Discover how our expertise drives efficiency and fosters success in various operational areas, offering cutting-edge solutions to meet your unique need. We are here to help you transform challenges into opportunities with our tailor-made IT solutions.
 
 [//]: <> (https://github-readme-stats.vercel.app/api?username=equidaecore-codehub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github.com/equidaecore-sms/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/equidaecore-sms/github-stats/blob/master/generated/languages.svg)
 
 ## 🚀 About Us
 
@@ -65,7 +67,7 @@ We build our solutions with and train our students in stacks
 - 🚀 Agbeero  
   - A mobile solution to manage transportation systems, ticketing, onboarding and other critical security challenges.
 
-## 🌱 Closed Projects
+## 🏆 Closed Projects
 
 - 🚀 University Result management System - Crescent University, Nigeria 
 - 🚀 College Result Management System - Adeniran Ogunsanya College of Education, Lagos Nigeria 
