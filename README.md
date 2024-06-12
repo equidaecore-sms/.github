@@ -16,6 +16,7 @@ We are here to you unlock the full potential of your business with our tailored 
 - Solution 
 - Training
 - Consultions
+
 check - [Equidaecore.com.ng](https://equidaecore.com.ng)
 
 ## Tech Stack
